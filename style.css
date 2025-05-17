@@ -1,0 +1,16 @@
+body {
+  background-color: #222;
+  color: white;
+}
+
+.div {
+  background-color: wheat;
+  color: #222;
+  /* width: 100px; */
+  /* aspect-ratio: 1; */
+  /* box-sizing: border-box; */
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
